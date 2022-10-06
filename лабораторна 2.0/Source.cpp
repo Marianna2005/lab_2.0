@@ -3,6 +3,7 @@
 // Лабораторна робота № 2.0.
 // Лінійні програми.
 // Варіант 6
+// hello world
 
 #include <iostream>
 #include <math.h>
